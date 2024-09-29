@@ -1,0 +1,8 @@
+# Ignore IDE configuration directory for IntelliJ IDEA
+.idea/
+
+# Ignore IntelliJ IDEA project file
+SimplePrograms.iml
+
+# Ignore build output directory
+target/
